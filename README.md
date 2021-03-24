@@ -1,12 +1,10 @@
-# Whadda RGB LED ring shield for micro:bit (WPSE475)
+# Whadda piano shield for micro:bit (WPSH455)
 
-![](./installed_shield.jpg)
+This example shows enables you to play tunes on your micro:bit pianso shield!
 
-This example shows off all of the different sensors and LEDs on the RGB LED ring shield.
-It will show a standard test sequence of the RGB LEDs, play a tune on the buzzer. Afterward, the LEDs will behave like a simple VU meter using the built-in microphone.
 
 ## Extensions used
-* neopixel
+* CokoinoTouchPiano
 
 ## Running the example
 
@@ -17,7 +15,7 @@ It will show a standard test sequence of the RGB LEDs, play a tune on the buzzer
 2. Unzip the downloaded file
 3. Go to [makecode.microbit.org](https://makecode.microbit.org/) and start a new project
 4. Drag the ```example_code.hex``` that is located in the folder you unzipped to the empty makecode blocks workspace. The sample code blocks should appear on your screen:
-  ![](./code_screenshot.jpg)
+  ![](./code_screenshot.png)
 5. Download the code to your micro:bit
 
 ## Additional information

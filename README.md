@@ -1,6 +1,6 @@
-# Whadda piano shield for micro:bit (WPSH455)
+# Whadda piano shield for Micro:Bit
 
-This example shows enables you to play tunes on your micro:bit pianso shield!
+This example shows you how to play tunes on your Micro:Bit piano shield!
 
 
 ## Extensions used
@@ -19,4 +19,4 @@ This example shows enables you to play tunes on your micro:bit pianso shield!
 5. Download the code to your micro:bit
 
 ## Additional information
-  For more information about theWhadda RGB LED ring shield for micro:bit (WPSE475), check the manual available at [whadda.com](https://whadda.com) 
+  For more information about the Whadda RGB LED ring shield for Micro:Bit (WPSE475), check the manual available at [whadda.com](https://whadda.com) 
